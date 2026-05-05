@@ -3,6 +3,9 @@ name = "liander-energy-data"
 version = "0.1.0"
 description = "Add your description here"
 readme = "README.md"
+authors = [
+    {name = "Tony Xiang", email = "y.xiang@tue.nl"}
+]
 license = "BSD-3-Clause"
 license-files = ["LICEN[CS]E*"]
 requires-python = ">=3.14"
