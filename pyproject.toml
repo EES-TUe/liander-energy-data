@@ -16,3 +16,9 @@ dependencies = [
     "pyarrow",
     "ipykernel",
 ]
+
+[dependency-groups]
+dev = [
+    "mypy",
+    "ruff",
+]
