@@ -1,0 +1,15 @@
+[project]
+name = "liander-energy-data"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+license = "BSD-3-Clause"
+license-files = ["LICEN[CS]E*"]
+requires-python = ">=3.14"
+dependencies = [
+    "polars",
+    "numpy",
+    "plotly",
+    "pyarrow",
+    "ipykernel",
+]
