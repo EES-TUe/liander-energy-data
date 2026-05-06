@@ -1,7 +1,7 @@
 [project]
 name = "liander-energy-data"
 version = "0.1.0"
-description = "Add your description here"
+description = "Experimental helper script for Liander Open Energy Data analysis"
 readme = "README.md"
 authors = [
     {name = "Tony Xiang", email = "y.xiang@tue.nl"}
