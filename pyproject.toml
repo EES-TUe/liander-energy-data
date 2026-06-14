@@ -15,7 +15,8 @@ dependencies = [
     "plotly",
     "pyarrow",
     "ipykernel",
-    "nbformat"
+    "nbformat",
+    "jupyter"
 ]
 
 [dependency-groups]
